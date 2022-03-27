@@ -1,0 +1,15 @@
+#com-input,.location-select{
+    width: 500px;
+}
+#com-button{
+    width: 100px;
+}
+
+.createProduct-wrapper table{
+    border-collapse: separate;
+    border-spacing: 0 30px;
+}
+
+.createProduct-wrapper td{
+    text-align: justify;
+}

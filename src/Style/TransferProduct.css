@@ -1,0 +1,15 @@
+#com-input,.location-select{
+    width: 500px;
+}
+#com-button{
+    width: 100px;
+}
+
+.transferProduct-wrapper table{
+    border-collapse: separate;
+    border-spacing: 0 30px;
+}
+
+.transferProduct-wrapper td{
+    text-align: justify;
+}

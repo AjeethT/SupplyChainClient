@@ -13,3 +13,13 @@
 .createProduct-wrapper td{
     text-align: justify;
 }
+
+.createProduct-wrapper .label-col{
+    width: 200px;
+}
+
+.createProduct-wrapper .error-col{
+    padding-left: 10px;
+    width: 200px;
+    color: red;
+}
